@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AsylumBasement001.unity
+- path: Assets/LevelDesign2/AsylumBasement003.unity
   isLoaded: 1
   isActive: 1

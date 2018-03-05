@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7539F007-BB53-2B2C-ACD9-D081472C7346}</ProjectGuid>
+    <ProjectGuid>{6C9C6274-5740-104F-CAD6-61AA4244408E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -196,10 +196,39 @@
      <Compile Include="Assets\Invector-3rdPersonController\Melee Combat\Scripts\WaypointSystem\vPoint.cs" />
      <Compile Include="Assets\Invector-3rdPersonController\Melee Combat\Scripts\WaypointSystem\vWaypoint.cs" />
      <Compile Include="Assets\Invector-3rdPersonController\Melee Combat\Scripts\WaypointSystem\vWaypointArea.cs" />
+     <Compile Include="Assets\LevelDesign2\Scripts\DestroyEnvironment.cs" />
+     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\CameraControls.cs" />
+     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\Scripts\IcoBumpin.cs" />
+     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Misc\HueCube.cs" />
+     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Procedural Mesh\ExtrudeRandomEdges.cs" />
+     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Runtime Editing\RuntimeEdit.cs" />
+     <Compile Include="Assets\ProCore\ProBuilder\API Examples\Vertex Colors\HighlightNearestFace.cs" />
      <None Include="Assets\Invector-3rdPersonController\Melee Combat\README_Melee.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_TransparentOverlay.shader" />
+     <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_SelectionPicker.shader" />
+     <None Include="Assets\ProCore\ProBuilder\About\changelog.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\DiffuseVertexColor.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_FaceHighlight.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_UnlitSolidColor.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_ReferenceUnlit.shader" />
      <None Include="Assets\Invector-3rdPersonController\ItemManager\3D Models\Materials\UIOnTopShader.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\DiffuseTextureBlend.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_StandardVertexColor.shader" />
      <None Include="Assets\Invector-3rdPersonController\Basic Locomotion\Scripts\XInput\Plugins\MITLicense.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_VertexPicker.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_HideVertices.shader" />
+     <None Include="Assets\ProCore\ProBuilder\About\ThirdPartyLicenses.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_UnlitVertexColor.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_FacePicker.shader" />
+     <None Include="Assets\ProCore\ProBuilder\About\Font\SIL Open Font License.txt" />
+     <None Include="Assets\ProCore\ProBuilder\About\pc_AboutEntry_ProBuilder.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_VertexShader.shader" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_NormalPreview.shader" />
      <None Include="Assets\Invector-3rdPersonController\Basic Locomotion\README_Basic.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_ScrollHighlight.shader" />
+     <None Include="Assets\ProCore\ProBuilder\readme.txt" />
+     <None Include="Assets\ProCore\ProBuilder\Shader\pb_SmoothingPreview.shader" />
      <None Include="Assets\Invector-3rdPersonController\Melee Combat\3DModels\Other\Wires\Shaders\alpha_2sided.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -228,14 +257,29 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
+ <Reference Include="XInputDotNetPure">
+ <HintPath>C:/Users/Jose/Documents/AsylumBasement/Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/XInput/Plugins/x86/XInputDotNetPure.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderCore-Unity5">
+ <HintPath>C:/Users/Jose/Documents/AsylumBasement/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+ </Reference>
+ <Reference Include="ProBuilderMeshOps-Unity5">
+ <HintPath>C:/Users/Jose/Documents/AsylumBasement/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+ </Reference>
+ <Reference Include="KdTreeLib">
+ <HintPath>C:/Users/Jose/Documents/AsylumBasement/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+ </Reference>
+ <Reference Include="pb_Stl">
+ <HintPath>C:/Users/Jose/Documents/AsylumBasement/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+ </Reference>
+ <Reference Include="Poly2Tri">
+ <HintPath>C:/Users/Jose/Documents/AsylumBasement/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Users/mnikolic/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>C:/Users/Jose/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Users/mnikolic/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
- </Reference>
- <Reference Include="XInputDotNetPure">
- <HintPath>C:/Users/mnikolic/Documents/Unity17.1_Projects/MeleeTemplate_2.2.5/Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/XInput/Plugins/x86/XInputDotNetPure.dll</HintPath>
+ <HintPath>C:/Users/Jose/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

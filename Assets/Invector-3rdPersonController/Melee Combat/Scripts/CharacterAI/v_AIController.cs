@@ -18,6 +18,9 @@ namespace Invector
         public UnityEngine.Events.UnityEvent onPatrol;
         protected AIStates oldState;
 
+		//public GameObject env;
+		//public GameObject potion;
+
         protected virtual void Start()
         {
             Init();
@@ -54,6 +57,9 @@ namespace Invector
             {
                 destination = transform.position;
                 target = null;
+				//DestroyObject (env);
+				//Instantiate (potion);
+
             }
         }
 
