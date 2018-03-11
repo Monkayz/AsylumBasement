@@ -19,10 +19,10 @@ MonoBehaviour:
     y: 30
     width: 1360
     height: 635
-  m_MinSize: {x: 783, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 808, y: 471}
+  m_MaxSize: {x: 18000, y: 14021}
   vertical: 1
-  controlID: 15059
+  controlID: 2281
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,10 +120,10 @@ MonoBehaviour:
     y: 0
     width: 1360
     height: 635
-  m_MinSize: {x: 783, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 808, y: 471}
+  m_MaxSize: {x: 18000, y: 14021}
   vertical: 0
-  controlID: 15060
+  controlID: 2282
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,10 +176,10 @@ MonoBehaviour:
     width: 138
     height: 614
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5aa71300
-    m_LastClickedID: 1288026
-    m_ExpandedIDs: eea8f6ff4201ffffa88effffca94ffff00000000546500005aa71300
+    scrollPos: {x: 0, y: 480}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: b890ffffa6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -198,7 +198,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
-  - AsylumBasement003
+  - AsylumBasement004
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -222,10 +222,10 @@ MonoBehaviour:
     y: 0
     width: 906
     height: 635
-  m_MinSize: {x: 404, y: 492}
-  m_MaxSize: {x: 10004, y: 14042}
+  m_MinSize: {x: 408, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 15061
+  controlID: 2283
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,10 +246,10 @@ MonoBehaviour:
     y: 0
     width: 906
     height: 364
-  m_MinSize: {x: 404, y: 221}
-  m_MaxSize: {x: 8004, y: 4021}
+  m_MinSize: {x: 408, y: 221}
+  m_MaxSize: {x: 8008, y: 4021}
   vertical: 0
-  controlID: 15038
+  controlID: 2244
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -268,8 +268,8 @@ MonoBehaviour:
     y: 0
     width: 463
     height: 364
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -329,14 +329,14 @@ MonoBehaviour:
     width: 439
     height: 343
   m_SceneLighting: 1
-  lastFramingTime: 4453.8248362976265
+  lastFramingTime: 405.7193506771143
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 20, y: 30.45, z: 21.87}
+    m_Target: {x: 36.411964, y: 12.806288, z: 40.841587}
     speed: 2
-    m_Value: {x: 20, y: 30.45, z: 21.87}
+    m_Value: {x: 36.411964, y: 12.806288, z: 40.841587}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -359,13 +359,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.21348184, y: 0.66937953, z: -0.21095258, w: -0.6796622}
+    m_Target: {x: -0.3804015, y: 0.6056994, z: -0.4058154, w: -0.5690603}
     speed: 2
-    m_Value: {x: -0.21348184, y: 0.66937953, z: -0.21095258, w: -0.6796622}
+    m_Value: {x: -0.38038385, y: 0.60567135, z: -0.4057966, w: -0.5690339}
   m_Size:
-    m_Target: 9.652505
+    m_Target: 33.433094
     speed: 2
-    m_Value: 9.652505
+    m_Value: 33.433094
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -433,11 +433,8 @@ MonoBehaviour:
     m_KeySerializationHelper: []
     m_ValueSerializationHelper: []
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: 072b9667ab8b09d4a9f62539831ed00e,
-    type: 2}
-  m_BreadCrumbs:
-  - m_Target: {fileID: 110700000, guid: 072b9667ab8b09d4a9f62539831ed00e, type: 2}
-    m_ScrollPosition: {x: 0, y: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
   blendTreeGraph: {fileID: 0}
@@ -512,19 +509,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Player
+    - Assets/LevelDesign2/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Invector-3rdPersonController/Melee Combat/Prefabs/Player
+  - Assets/LevelDesign2/Prefabs
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Jose\Documents\AsylumBasement
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 583}
-    m_SelectedIDs: 18560000
-    m_LastClickedID: 22040
-    m_ExpandedIDs: 00000000bc510000065200004c520000d6530000f45400000e55000054580000745900006a5b0000825b00004a5d00007a60000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: dc380000
+    m_LastClickedID: 14556
+    m_ExpandedIDs: 00000000c42900001c2a0000842a0000482c0000be2d0000e22d00005a320000683600008e360000b0380000d23c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -552,7 +549,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000bc510000065200004c520000d6530000f45400000e55000054580000745900006a5b0000825b00004a5d00007a60000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000c42900001c2a0000842a0000482c0000be2d0000e22d00005a320000683600008e360000b0380000d23c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -577,8 +574,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 5aa71300
-    m_LastClickedInstanceID: 1288026
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 8a1e0000fa7a0000547b0000901d00004401000066f6f5ffd85ef0ff8c00000042010000780000009e1b0000aa1d000024010000320000009eb70000eea50000ce9a00008c1d00002c060000222d0000862500000000000080f20000
     m_RenameOverlay:
@@ -651,15 +648,15 @@ MonoBehaviour:
     y: 0
     width: 314
     height: 635
-  m_MinSize: {x: 275, y: 50}
+  m_MinSize: {x: 300, y: 360}
   m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 17}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 17}
   - {fileID: 18}
   - {fileID: 19}
-  m_Selected: 0
-  m_LastSelected: 2
+  m_Selected: 2
+  m_LastSelected: 0
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
