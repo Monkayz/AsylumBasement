@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 28e4fca6d70739b43adcc3e584a15146
+timeCreated: 1489184261
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: mvcv_obb_sewerDeepBridgeAQ_01
+    100002: mvcv_obb_sewerDeepBridgeAQ_02
+    100004: mvcv_obb_sewerDeepBridgeAQ_03
+    100006: mvcv_obb_sewerDeepBridgeAQ_05
+    100008: mvcv_obb_sewerDeepBridgeAQ_06
+    100010: mvcv_obb_sewerDeepBridgeQ_04
+    100012: //RootNode
+    100014: sewerDeepBridgeA_02
+    100016: sewerDeepBridgeA_03
+    100018: sewerDeepBridgeAQ
+    100020: waterPlaneA09
+    100022: waterPlaneB09
+    100024: waterPlaneC09
+    400000: mvcv_obb_sewerDeepBridgeAQ_01
+    400002: mvcv_obb_sewerDeepBridgeAQ_02
+    400004: mvcv_obb_sewerDeepBridgeAQ_03
+    400006: mvcv_obb_sewerDeepBridgeAQ_05
+    400008: mvcv_obb_sewerDeepBridgeAQ_06
+    400010: mvcv_obb_sewerDeepBridgeQ_04
+    400012: //RootNode
+    400014: sewerDeepBridgeA_02
+    400016: sewerDeepBridgeA_03
+    400018: sewerDeepBridgeAQ
+    400020: waterPlaneA09
+    400022: waterPlaneB09
+    400024: waterPlaneC09
+    2300000: mvcv_obb_sewerDeepBridgeAQ_01
+    2300002: mvcv_obb_sewerDeepBridgeAQ_02
+    2300004: mvcv_obb_sewerDeepBridgeAQ_03
+    2300006: mvcv_obb_sewerDeepBridgeAQ_05
+    2300008: mvcv_obb_sewerDeepBridgeAQ_06
+    2300010: mvcv_obb_sewerDeepBridgeQ_04
+    2300012: sewerDeepBridgeA_02
+    2300014: sewerDeepBridgeA_03
+    2300016: sewerDeepBridgeAQ
+    2300018: waterPlaneA09
+    2300020: waterPlaneB09
+    2300022: waterPlaneC09
+    3300000: mvcv_obb_sewerDeepBridgeAQ_01
+    3300002: mvcv_obb_sewerDeepBridgeAQ_02
+    3300004: mvcv_obb_sewerDeepBridgeAQ_03
+    3300006: mvcv_obb_sewerDeepBridgeAQ_05
+    3300008: mvcv_obb_sewerDeepBridgeAQ_06
+    3300010: mvcv_obb_sewerDeepBridgeQ_04
+    3300012: sewerDeepBridgeA_02
+    3300014: sewerDeepBridgeA_03
+    3300016: sewerDeepBridgeAQ
+    3300018: waterPlaneA09
+    3300020: waterPlaneB09
+    3300022: waterPlaneC09
+    4300000: mvcv_obb_sewerDeepBridgeAQ_01
+    4300002: mvcv_obb_sewerDeepBridgeAQ_05
+    4300004: mvcv_obb_sewerDeepBridgeAQ_02
+    4300006: sewerDeepBridgeA_03
+    4300008: sewerDeepBridgeA_02
+    4300010: mvcv_obb_sewerDeepBridgeAQ_06
+    4300012: mvcv_obb_sewerDeepBridgeAQ_03
+    4300014: waterPlaneB09
+    4300016: waterPlaneA09
+    4300018: waterPlaneC09
+    4300020: sewerDeepBridgeAQ
+    4300022: mvcv_obb_sewerDeepBridgeQ_04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

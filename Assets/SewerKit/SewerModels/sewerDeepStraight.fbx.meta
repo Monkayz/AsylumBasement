@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 66c94c85acc680c4d8f7fee2ace813f2
+timeCreated: 1489184262
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: mvcv_obb_sewerDeepStraightQ_01
+    100002: mvcv_obb_sewerDeepStraightQ_02
+    100004: //RootNode
+    100006: sewerDeepStraightQ
+    100008: waterPlaneA06
+    100010: waterPlaneB06
+    100012: waterPlaneC06
+    400000: mvcv_obb_sewerDeepStraightQ_01
+    400002: mvcv_obb_sewerDeepStraightQ_02
+    400004: //RootNode
+    400006: sewerDeepStraightQ
+    400008: waterPlaneA06
+    400010: waterPlaneB06
+    400012: waterPlaneC06
+    2300000: mvcv_obb_sewerDeepStraightQ_01
+    2300002: mvcv_obb_sewerDeepStraightQ_02
+    2300004: sewerDeepStraightQ
+    2300006: waterPlaneA06
+    2300008: waterPlaneB06
+    2300010: waterPlaneC06
+    3300000: mvcv_obb_sewerDeepStraightQ_01
+    3300002: mvcv_obb_sewerDeepStraightQ_02
+    3300004: sewerDeepStraightQ
+    3300006: waterPlaneA06
+    3300008: waterPlaneB06
+    3300010: waterPlaneC06
+    4300000: waterPlaneC06
+    4300002: waterPlaneA06
+    4300004: waterPlaneB06
+    4300006: sewerDeepStraightQ
+    4300008: mvcv_obb_sewerDeepStraightQ_01
+    4300010: mvcv_obb_sewerDeepStraightQ_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
