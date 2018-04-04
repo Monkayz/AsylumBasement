@@ -408,6 +408,9 @@
     <None Include="Assets\Invector-3rdPersonController\ItemManager\3D Models\Materials\UIOnTopShader.shader" />
     <None Include="Assets\Invector-3rdPersonController\Melee Combat\3DModels\Other\Wires\Shaders\alpha_2sided.shader" />
     <None Include="Assets\Invector-3rdPersonController\Melee Combat\README_Melee.txt" />
+    <None Include="Assets\MainMenu\Fonts\Jupiter\LICENSE.txt" />
+    <None Include="Assets\MainMenu\Materials\UI-Default-No-Alpha.shader" />
+    <None Include="Assets\MainMenu\Textures and Sprites\SF UI\Background\LICENSE.txt" />
     <None Include="Assets\ProCore\ProBuilder\API Examples\Icosphere FFT\README.txt" />
     <None Include="Assets\ProCore\ProBuilder\About\Font\SIL Open Font License.txt" />
     <None Include="Assets\ProCore\ProBuilder\About\ThirdPartyLicenses.txt" />
